@@ -19,6 +19,5 @@
       <Folder Include="Model" />
       <Folder Include="Utilities\Converter" />
       <Folder Include="Utilities\Enums" />
-      <Folder Include="View" />
     </ItemGroup>
 </Project>
